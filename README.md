@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/Peehal/Peehal/main/assets/banner.jpg](https://github.com/Peehal/Peehal/blob/main/github.jpeg)" alt="Peehal Sinha Banner" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Peehal Sinha 👋 — Full-Stack & AI/GenAI Developer</h1>
 
 <p align="center"><i>"Build. Create. Repeat."</i></p>
