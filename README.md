@@ -44,6 +44,9 @@ I'm a **B.Tech student at NIT Jamshedpur**, building full-stack and AI-powered p
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+![snake gif](https://raw.githubusercontent.com/Peehal/Peehal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
 
 ### 🤝 Let's Connect!
 
