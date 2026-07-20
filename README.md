@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Peehal/Peehal/blob/main/github.jpeg" alt="Peehal Sinha Banner" width="800">
+  <img src="https://github.com/Peehal/Peehal/blob/main/github.jpeg" alt="Peehal Sinha Banner" width="650" height="450">
 </p>
 
 <h1 align="center">Hi, I'm Peehal Sinha 👋 — Full-Stack & AI/GenAI Developer</h1>
